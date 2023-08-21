@@ -9,18 +9,17 @@ Admins can add new products to the website, manage inventory, and track sales. U
 The website is responsive so that it can be viewed on any device. It is also secure, using HTTPS to protect user data.
 
 **Features**
-
 Browse and purchase a variety of products.
 Sign up for the website using Google Authentication or entering your email address and password.
 Manage product inventory
 Track sales
 Responsive design
 Secure checkout
-**Benefits**
 
+**Benefits**
 A convenient way to shop for a variety of Dairy products 
 Secure way to purchase products
 Responsive design makes it easy to shop on any device
 Easy to manage product inventory
 Track sales data to improve business decisions
-I hope this helps! Let me know if you have any other questions.
+I hope this helps!
